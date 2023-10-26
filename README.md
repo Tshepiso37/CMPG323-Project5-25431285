@@ -14,9 +14,9 @@ The following pages were created:
 - Order Monitoring Page
 - Product Monitoring Page
 - Customer Monitoring Page
-- 
+
 #### High-Level Metrics Page
-The High-Level Metrics Page has the following Pages:
+The High-Level Metrics Page has the following visualisations:
 - Count of QuantityStatus
 - Count of UnitsInStock
 - Count of Quantity
@@ -26,15 +26,35 @@ The High-Level Metrics Page should look like this:
 ![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
 
 ##### Order Monitoring Page
+The Order Monitoring Page has the following visualisation:
+- Count of Quantity by Category
+- Count of Discount by CustomerTitle
+- Sum of Quantity by OrderDate
+- Count of CustomerTitle average per Category by CustomerTitle and Category
+
+The Order Monitoring Page should look like this:
 ![OrderMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/99c96b82-0bfa-402a-9215-5765eac546d7)
 
 ##### Product Monitoring Page
+The Product Monitoring Page has the following visualisation:
+- Count of UnitsInStock and Count of Quantity by Quarter
+- Sum of Discount by Name and Category
+- Count of Quantity by Name and ProductName
+
+The Product Monitoring Page should look like this:
 ![ProductMonitor](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/2beefae5-392d-4fda-b24e-b9678c16b44d)
 
 ##### Customer Monitoring Page
+The Customer Monitoring Page has the following visualisation:
+- Sum of Quantity by ProductName, ProductId and Category
+- Sum of Category by CustomerName
+- Q and A
+
+The Customer Monitoring Page should look like this:
 ![CustomerMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/dd97a5e6-2d53-4328-83eb-a5e2fc6e157f)
 
-
+##### Key Measure
+A key measure is added shown in the Order Monitoring Page, named: Count of CustomerTitle average per Category by CustomerTitle and Category to depict the average count of CustomeTitle per Category by their CustomerTitle and the Category of the Product purchased.
 ##### Reference List
 https://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi
 https://www.youtube.com/watch?v=NNSHu0rkew8
