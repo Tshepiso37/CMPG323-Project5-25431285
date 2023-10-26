@@ -7,7 +7,7 @@ The training conducted for Project 5: Power BI are the following badges:
 - Configure Power Bi report filters
 ### Project Description
 Project 5 is a report conducted on Power BI, with an imported excel sheet added to it. 
-A 
+The project was published, and has 2 data sources - with a live data source. The project connected to the API developed in Project 2
 #### High-Level Metrics Page
 ![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
 
@@ -17,8 +17,9 @@ A
 ##### Product Monitoring Page
 ![ProductMonitor](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/2beefae5-392d-4fda-b24e-b9678c16b44d)
 
-##### Cu![CustomerMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/dd97a5e6-2d53-4328-83eb-a5e2fc6e157f)
-stomer Monitoring Page
+##### Customer Monitoring Page
+![CustomerMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/dd97a5e6-2d53-4328-83eb-a5e2fc6e157f)
+
 
 ##### Reference List
 https://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi
