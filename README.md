@@ -1,5 +1,11 @@
 # CMPG323-Project5-25431285
-## Reference List
+## Training
+### Project Description
+#### High-Level Metrics Page
+##### Order Monitoring Page
+###### Product Monitoring Page
+####### Customer Monitoring Page
+######## Reference List
 https://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi
 https://www.youtube.com/watch?v=NNSHu0rkew8
 https://www.youtube.com/watch?v=fnA-_iDV_LY
