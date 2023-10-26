@@ -12,8 +12,12 @@ A
 ![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
 
 ##### Order Monitoring Page
+![OrderMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/99c96b82-0bfa-402a-9215-5765eac546d7)
+
 ##### Product Monitoring Page
+
 ##### Customer Monitoring Page
+
 ##### Reference List
 https://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi
 https://www.youtube.com/watch?v=NNSHu0rkew8
