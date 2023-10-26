@@ -11,3 +11,17 @@ https://www.youtube.com/watch?v=xCSYLrcLW00
 https://www.youtube.com/watch?v=PPBPX30fW3E
 https://www.youtube.com/watch?v=k9LGRfREuIk
 https://www.youtube.com/watch?v=ModwzBamuxo
+https://www.youtube.com/watch?v=zaFTAT6_jCs
+https://www.youtube.com/watch?v=YP1Tr7nrwNI
+https://www.youtube.com/watch?v=42MK5XOa9gc
+https://www.youtube.com/watch?v=vcijg0gUXSg&t=50s
+https://www.youtube.com/watch?v=I1cCUUhiZgc
+https://www.youtube.com/watch?v=uPHwjPRnRwE
+https://www.youtube.com/watch?v=-sOHVl_iCHA
+https://www.youtube.com/watch?v=0eVN16v9RJw
+https://www.youtube.com/watch?v=vfKxcGmw1sE
+https://www.youtube.com/watch?v=ZVknC7YEMB4
+https://www.youtube.com/watch?v=TjNvXdE74Bc
+https://www.youtube.com/watch?v=19E65OsxGzs
+https://www.youtube.com/watch?v=XVLmvvpGKNc
+https://www.youtube.com/watch?v=0BKlUySopU4
