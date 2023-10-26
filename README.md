@@ -1,4 +1,5 @@
-# CMPG323-Project5-25431285
+# CMPG323-Project5-25431285 
+https://app.powerbi.com/groups/me/reports/d4c9a5ab-923d-494c-a1fa-212d3acb1e75/ReportSection?experience=power-bi
 ## Training
 ### Project Description
 #### High-Level Metrics Page
