@@ -1,8 +1,16 @@
 # CMPG323-Project5-25431285 
 https://app.powerbi.com/groups/me/reports/d4c9a5ab-923d-494c-a1fa-212d3acb1e75/ReportSection?experience=power-bi
 ## Training
+The training conducted for Project 5: Power BI are the following badges:
+- Get started building with Power BI
+- Design Power BI reports
+- Configure Power Bi report filters
 ### Project Description
+Project 5 is a report conducted on Power BI, with an imported excel sheet added to it. 
+A 
 #### High-Level Metrics Page
+![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
+
 ##### Order Monitoring Page
 ##### Product Monitoring Page
 ##### Customer Monitoring Page
