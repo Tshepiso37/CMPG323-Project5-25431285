@@ -15,8 +15,10 @@ A
 ![OrderMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/99c96b82-0bfa-402a-9215-5765eac546d7)
 
 ##### Product Monitoring Page
+![ProductMonitor](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/2beefae5-392d-4fda-b24e-b9678c16b44d)
 
-##### Customer Monitoring Page
+##### Cu![CustomerMonitoring](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/dd97a5e6-2d53-4328-83eb-a5e2fc6e157f)
+stomer Monitoring Page
 
 ##### Reference List
 https://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi
