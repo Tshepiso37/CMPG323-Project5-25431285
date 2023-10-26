@@ -7,8 +7,21 @@ The training conducted for Project 5: Power BI are the following badges:
 - Configure Power Bi report filters
 ### Project Description
 Project 5 is a report conducted on Power BI, with an imported excel sheet added to it. 
-The project was published, and has 2 data sources - with a live data source. The project connected to the API developed in Project 2
+The project was published, and has 2 data sources - with a live data source. The project is connected to the API developed in Project 2.
+It gives a report of the how many products were overed, over a period of time. Detailing the customers - customerID, their respective titles and the products they are ordering - in quantity and the discount each customer received.
+The following pages were created:
+- High-Level Metrics Page
+- Order Monitoring Page
+- Product Monitoring Page
+- Customer Monitoring Page
+- 
 #### High-Level Metrics Page
+The High-Level Metrics Page shows the following:
+- Count of QuantityStatus
+  This visualisation shows the count(number) of QuantityStatus by the product according to their ProductId and ProductName. It shows when there is an increase, a decrease, the total and other variables
+- Count of UnitsInStock
+- Count of Quantity
+- Count of CustomerTitle.
 ![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
 
 ##### Order Monitoring Page
