@@ -16,12 +16,13 @@ The following pages were created:
 - Customer Monitoring Page
 - 
 #### High-Level Metrics Page
-The High-Level Metrics Page shows the following:
+The High-Level Metrics Page has the following Pages:
 - Count of QuantityStatus
-  This visualisation shows the count(number) of QuantityStatus by the product according to their ProductId and ProductName. It shows when there is an increase, a decrease, the total and other variables
 - Count of UnitsInStock
 - Count of Quantity
 - Count of CustomerTitle.
+
+The High-Level Metrics Page should look like this:
 ![High-Level Metrics](https://github.com/Tshepiso37/CMPG323-Project5-25431285/assets/91364465/5cde8376-e96b-47b1-ab5c-fc492cd97a34)
 
 ##### Order Monitoring Page
